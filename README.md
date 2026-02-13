@@ -112,5 +112,5 @@ The goal was to create a simple product that feels intentional and polished rath
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/shashwat-vikram-singh/AI-Chatbot)>
 cd chatbot-ui
